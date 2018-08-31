@@ -3,4 +3,5 @@ yds test1
 yds add on github
 yds add on idea
 yds add on github
-yds add on github+1
+yds add on gith
+我在github上加了一句话。
